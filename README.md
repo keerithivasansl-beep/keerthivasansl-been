@@ -1,84 +1,97 @@
 <!-- ========================================================= -->
-<!--              KEERTHIVASAN | GITHUB PROFILE               -->
+<!--          KEERTHIVASAN | AURORA AI GITHUB PROFILE          -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- ======================= HERO ======================== -->
+<!-- ===================== HERO BANNER ====================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=KEERTHIVASAN&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Data%20Science%20%7C%20Full%20Stack&descAlignY=62&descSize=18&animation=fadeIn&color=0:020617,45:071A2F,75:063B4A,100:00F5A0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=KEERTHIVASAN&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20FULL%20STACK&descSize=20&descAlignY=61&animation=fadeIn&color=0:4C1D95,25:7C3AED,50:06B6D4,75:00F5A0,100:EC4899"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Developer;Building+Real-World+AI+Solutions;Turning+Ideas+Into+Technology"/>
+<!-- ===================== TYPING ====================== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Developer;Computer+Vision+Explorer;AI+%2B+Hardware+Enthusiast;Turning+Ideas+Into+Intelligent+Solutions"/>
 
 <br><br>
 
+<!-- ===================== SOCIAL ====================== -->
+
 <a href="https://github.com/keerithivasansl-beep">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F5A0"/>
+<img src="https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-071A2F?style=for-the-badge&logo=linkedin&logoColor=00F5A0"/>
+<img src="https://img.shields.io/badge/LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-071A2F?style=for-the-badge&logo=gmail&logoColor=00F5A0"/>
+<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=keerithivasansl-beep&label=PROFILE%20VIEWS&color=00F5A0&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=keerithivasansl-beep&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🌈 About Me
 
 <table>
 <tr>
 
 <td width="38%" align="center">
 
-<img src="https://github.com/keerithivasansl-beep.png" width="210">
+<img src="./assets/profile.jpg" width="230">
 
 <br><br>
 
-### KEERTHIVASAN
+## 🟣 KEERTHIVASAN
 
 **AI & Data Science Student**
 
-📍 India
+📍 🇮🇳 India
 
-<br>
+<br><br>
 
-`AI` `ML` `Python` `Data Science`
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-00F5A0?style=for-the-badge"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Science-EC4899?style=for-the-badge"/>
 
 </td>
 
 <td width="62%">
 
-### 👋 Hello, I'm Keerthivasan!
+# 👋 Hello, I'm Keerthivasan!
 
-I'm a student from the **Department of Artificial Intelligence & Data Science**, interested in building practical technology that combines **AI, software and data**.
+I'm a student from the **Department of Artificial Intelligence & Data Science**, passionate about building practical technology that combines **AI, software and data**.
 
 I enjoy transforming ideas into working applications and exploring how intelligent systems can solve real-world problems.
 
-### ⚡ What I Work With
+### 🔥 What I Work With
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 🐍 Python Development
-- 🌐 Web Development
-- 🗄️ Databases
-- ⚙️ AI + Hardware / IoT
-- 💡 Innovative Technology
+🟣 Artificial Intelligence  
+🔵 Machine Learning  
+🩵 Data Science  
+🟢 Python Development  
+🩷 Full Stack Development  
+🟠 Computer Vision  
+🔴 AI + Hardware / IoT  
+🟡 Innovative Technology
 
 <br>
 
-> ### `Turning ideas → into intelligent solutions.`
+> 💡 **Turning ideas → intelligent solutions → real-world impact.**
 
 </td>
 
@@ -96,37 +109,43 @@ I enjoy transforming ideas into working applications and exploring how intellige
 
 <td width="33%" align="center">
 
-### 🤖 Artificial Intelligence
+# 🤖
 
-Intelligent Applications
+## Artificial Intelligence
 
-AI-based Solutions
+🟣 Intelligent Applications
 
-Automation
+🔵 AI Solutions
 
-</td>
-
-<td width="33%" align="center">
-
-### 🧠 Machine Learning
-
-Classification
-
-Prediction
-
-Pattern Recognition
+🟢 Automation
 
 </td>
 
 <td width="33%" align="center">
 
-### 📊 Data Science
+# 🧠
 
-Data Analysis
+## Machine Learning
 
-Visualization
+🔵 Classification
 
-Data-driven Solutions
+🩵 Prediction
+
+🟣 Pattern Recognition
+
+</td>
+
+<td width="33%" align="center">
+
+# 📊
+
+## Data Science
+
+🟢 Data Analysis
+
+🩷 Visualization
+
+🟠 Data-driven Solutions
 
 </td>
 
@@ -137,41 +156,47 @@ Data-driven Solutions
 
 ---
 
-# ⚡ Technology Stack
+# ⚡ Technology Universe
 
 <div align="center">
 
-### 🐍 Programming
+## 🐍 Programming
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js"/>
-
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,flask"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark"/>
 
 <br><br>
 
-### 🗄️ Database
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+---
 
-<br><br>
+## 🌐 Web Development
 
-### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,flask&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+---
 
-<br><br>
+## 🗄️ Database
 
-### 🤖 AI / Data Science
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 
-`Artificial Intelligence`  
-`Machine Learning`  
-`Data Science`  
-`Data Analysis`  
-`Computer Vision`
+---
+
+## 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+---
+
+## 🤖 AI / Data Science
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-00F5A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-EC4899?style=for-the-badge"/>
 
 </div>
 
@@ -185,25 +210,31 @@ Data-driven Solutions
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ## 📰 Fake News Detector
 
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-06B6D4?style=for-the-badge"/>
+
 AI-powered application designed to analyze news content and identify potentially misleading information.
 
-**Core Technologies**
+### Technology
 
 `Python` `Machine Learning` `Flask` `SQL`
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ## 🎓 Smart Study Assistant
 
-An intelligent student-focused application designed to support learning, organization and study assistance.
+<img src="https://img.shields.io/badge/AI-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDTECH-00F5A0?style=for-the-badge"/>
 
-**Core Technologies**
+Intelligent student-focused application designed to support learning and study assistance.
+
+### Technology
 
 `Python` `AI` `Web` `Data`
 
@@ -213,25 +244,31 @@ An intelligent student-focused application designed to support learning, organiz
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ## 🔬 Microplastic Detection
 
-AI-assisted system for detecting and classifying microplastic particles in water samples using image analysis.
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
 
-**Focus**
+AI-assisted system for detecting and classifying microplastic particles in water samples.
+
+### Focus
 
 `AI` `Computer Vision` `Image Processing`
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ## 🛡️ Voice Cloning Detection
 
-Exploring AI-based approaches for detecting potentially cloned or synthetic voices in communication scenarios.
+<img src="https://img.shields.io/badge/AI-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY-F97316?style=for-the-badge"/>
 
-**Focus**
+Exploring AI-based approaches for detecting potentially cloned or synthetic voices.
+
+### Focus
 
 `AI` `Audio Analysis` `Security`
 
@@ -250,10 +287,10 @@ Exploring AI-based approaches for detecting potentially cloned or synthetic voic
 <div align="center">
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=keerithivasansl-beep&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF&rank_icon=github&cache_seconds=1800"/>
+src="https://github-readme-stats.vercel.app/api?username=keerithivasansl-beep&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=FFFFFF&rank_icon=github&cache_seconds=1800"/>
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerithivasansl-beep&layout=compact&hide_border=true&bg_color=020617&title_color=00F5A0&text_color=FFFFFF&cache_seconds=1800"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerithivasansl-beep&layout=compact&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF&cache_seconds=1800"/>
 
 </div>
 
@@ -262,7 +299,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerithivasa
 <div align="center">
 
 <img width="80%"
-src="https://streak-stats.demolab.com?user=keerithivasansl-beep&theme=dark&hide_border=true&background=020617&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=FFFFFF&dates=94A3B8"/>
+src="https://streak-stats.demolab.com?user=keerithivasansl-beep&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=06B6D4&sideLabels=FFFFFF&dates=94A3B8"/>
 
 </div>
 
@@ -273,158 +310,36 @@ src="https://streak-stats.demolab.com?user=keerithivasansl-beep&theme=dark&hide_
 <div align="center">
 
 <img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=keerithivasansl-beep&bg_color=020617&color=FFFFFF&line=00F5A0&point=00F5A0&area=true&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=keerithivasansl-beep&bg_color=0D1117&color=FFFFFF&line=A78BFA&point=06B6D4&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🧩 My Development Journey
+# 🌌 My Development Journey
 
 <div align="center">
 
 ```text
-                    💡 IDEATION
-                        │
-                        ▼
-                  📊 DATA / INPUT
-                        │
-                        ▼
-                   🧠 AI / MODEL
-                        │
-                        ▼
-                  💻 APPLICATION
-                        │
-                        ▼
-                   🚀 REAL-WORLD
-                     SOLUTION
-```
-
-</div>
-
----
-
-# 🎯 2026 Roadmap
-
-<div align="center">
-
-| Status | Goal |
-|:---:|---|
-| 🟢 | Strengthen AI & Data Science |
-| 🟡 | Build production-level AI applications |
-| 🟡 | Improve Full Stack Development |
-| 🟡 | Learn Advanced Machine Learning |
-| 🟡 | Build AI + Hardware Projects |
-| 🟡 | Contribute to Open Source |
-| 🟡 | Build a Strong Developer Portfolio |
-
-</div>
-
----
-
-# 💡 What I'm Exploring
-
-<div align="center">
-
-`Artificial Intelligence`
-
-⬇️
-
-`Machine Learning`
-
-⬇️
-
-`Computer Vision`
-
-⬇️
-
-`Data Science`
-
-⬇️
-
-`Full Stack Applications`
-
-⬇️
-
-`AI + Hardware`
-
-</div>
-
----
-
-# 🏆 My Focus
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-### 🧠 LEARN
-
-Continuously improve  
-AI & technical skills
-
-</td>
-
-<td align="center">
-
-### 🔨 BUILD
-
-Create practical  
-real-world projects
-
-</td>
-
-<td align="center">
-
-### 🚀 INNOVATE
-
-Turn problems  
-into solutions
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 📬 Connect With Me
-
-<div align="center">
-
-### Let's build something interesting together.
-
-<br>
-
-<a href="https://github.com/keerithivasansl-beep">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5A0"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-071A2F?style=for-the-badge&logo=linkedin&logoColor=00F5A0"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-071A2F?style=for-the-badge&logo=gmail&logoColor=00F5A0"/>
-</a>
-
-<br><br>
-
-**AI • Data • Code • Innovation**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5A0,50:063B4A,100:020617"/>
-
-### `Thanks for visiting my profile! 👋`
-
-</div>
+                     💡 IDEA
+                       │
+                       ▼
+                 📊 COLLECT DATA
+                       │
+                       ▼
+                 🧹 PROCESS DATA
+                       │
+                       ▼
+                    🧠 AI MODEL
+                       │
+                       ▼
+                  💻 BUILD APP
+                       │
+                       ▼
+                    🧪 TEST
+                       │
+                       ▼
+                  🚀 DEPLOY
+                       │
+                       ▼
+               🌍 REAL-WORLD IMPACT
