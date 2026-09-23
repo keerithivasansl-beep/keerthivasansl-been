@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                 KEERTHIVASAN | GITHUB PROFILE             -->
+<!--              KEERTHIVASAN | GITHUB PROFILE               -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -34,8 +34,6 @@
 
 ---
 
-<!-- ======================= ABOUT ======================== -->
-
 # 👨‍💻 About Me
 
 <table>
@@ -43,7 +41,7 @@
 
 <td width="38%" align="center">
 
-<img src="https://github.com/keerthivasanl-beep.png" width="210" style="border-radius:50%"/>
+<img src="https://github.com/keerthivasanl-beep.png" width="210">
 
 <br><br>
 
@@ -98,7 +96,7 @@ I enjoy transforming ideas into working applications and exploring how intellige
 
 <td width="33%" align="center">
 
-### 🤖 AI
+### 🤖 Artificial Intelligence
 
 Intelligent Applications
 
@@ -110,7 +108,7 @@ Automation
 
 <td width="33%" align="center">
 
-### 🧠 ML
+### 🧠 Machine Learning
 
 Classification
 
@@ -122,7 +120,7 @@ Pattern Recognition
 
 <td width="33%" align="center">
 
-### 📊 Data
+### 📊 Data Science
 
 Data Analysis
 
@@ -251,9 +249,11 @@ Exploring AI-based approaches for detecting potentially cloned or synthetic voic
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=keerthivasanl-beep&show_icons=true&hide_border=true&bg_color=020617&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF&rank_icon=github"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=keerthivasanl-beep&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF&rank_icon=github&cache_seconds=1800"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthivasanl-beep&layout=compact&hide_border=true&bg_color=020617&title_color=00F5A0&text_color=FFFFFF"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthivasanl-beep&layout=compact&hide_border=true&bg_color=020617&title_color=00F5A0&text_color=FFFFFF&cache_seconds=1800"/>
 
 </div>
 
@@ -261,7 +261,8 @@ Exploring AI-based approaches for detecting potentially cloned or synthetic voic
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=keerthivasanl-beep&hide_border=true&background=020617&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=FFFFFF&dates=94A3B8"/>
+<img width="80%"
+src="https://streak-stats.demolab.com?user=keerthivasanl-beep&theme=dark&hide_border=true&background=020617&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=FFFFFF&dates=94A3B8"/>
 
 </div>
 
@@ -279,32 +280,150 @@ Exploring AI-based approaches for detecting potentially cloned or synthetic voic
 
 # 🧩 My Development Journey
 
+<div align="center">
+
 ```text
-                 ┌───────────────────────┐
-                 │       IDEATION        │
-                 │     💡 New Ideas      │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │      DATA / INPUT     │
-                 │    📊 Collect Data    │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │      AI / MODEL       │
-                 │     🧠 Build AI       │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │     APPLICATION       │
-                 │      💻 Build App     │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │     REAL-WORLD        │
-                 │      🚀 SOLUTION      │
-                 └───────────────────────┘
+                    💡 IDEATION
+                        │
+                        ▼
+                  📊 DATA / INPUT
+                        │
+                        ▼
+                   🧠 AI / MODEL
+                        │
+                        ▼
+                  💻 APPLICATION
+                        │
+                        ▼
+                   🚀 REAL-WORLD
+                     SOLUTION
+```
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+<div align="center">
+
+| Status | Goal |
+|:---:|---|
+| 🟢 | Strengthen AI & Data Science |
+| 🟡 | Build production-level AI applications |
+| 🟡 | Improve Full Stack Development |
+| 🟡 | Learn Advanced Machine Learning |
+| 🟡 | Build AI + Hardware Projects |
+| 🟡 | Contribute to Open Source |
+| 🟡 | Build a Strong Developer Portfolio |
+
+</div>
+
+---
+
+# 💡 What I'm Exploring
+
+<div align="center">
+
+`Artificial Intelligence`
+
+⬇️
+
+`Machine Learning`
+
+⬇️
+
+`Computer Vision`
+
+⬇️
+
+`Data Science`
+
+⬇️
+
+`Full Stack Applications`
+
+⬇️
+
+`AI + Hardware`
+
+</div>
+
+---
+
+# 🏆 My Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🧠 LEARN
+
+Continuously improve  
+AI & technical skills
+
+</td>
+
+<td align="center">
+
+### 🔨 BUILD
+
+Create practical  
+real-world projects
+
+</td>
+
+<td align="center">
+
+### 🚀 INNOVATE
+
+Turn problems  
+into solutions
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+### Let's build something interesting together.
+
+<br>
+
+<a href="https://github.com/keerthivasanl-beep">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5A0"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-071A2F?style=for-the-badge&logo=linkedin&logoColor=00F5A0"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-071A2F?style=for-the-badge&logo=gmail&logoColor=00F5A0"/>
+</a>
+
+<br><br>
+
+**AI • Data • Code • Innovation**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5A0,50:063B4A,100:020617"/>
+
+### `Thanks for visiting my profile! 👋`
+
+</div>
