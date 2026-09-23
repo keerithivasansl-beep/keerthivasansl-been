@@ -14,7 +14,7 @@
 
 <br><br>
 
-<a href="https://github.com/keerthivasanl-beep">
+<a href="https://github.com/keerithivasansl-beep">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F5A0"/>
 </a>
 
@@ -28,7 +28,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=keerthivasanl-beep&label=PROFILE%20VIEWS&color=00F5A0&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=keerithivasansl-beep&label=PROFILE%20VIEWS&color=00F5A0&style=flat"/>
 
 </div>
 
@@ -41,7 +41,7 @@
 
 <td width="38%" align="center">
 
-<img src="https://github.com/keerthivasanl-beep.png" width="210">
+<img src="https://github.com/keerithivasansl-beep.png" width="210">
 
 <br><br>
 
@@ -217,7 +217,7 @@ An intelligent student-focused application designed to support learning, organiz
 
 ## 🔬 Microplastic Detection
 
-AI-assisted concept for detecting and classifying microplastic particles in water samples using image analysis.
+AI-assisted system for detecting and classifying microplastic particles in water samples using image analysis.
 
 **Focus**
 
@@ -250,10 +250,10 @@ Exploring AI-based approaches for detecting potentially cloned or synthetic voic
 <div align="center">
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=keerthivasanl-beep&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF&rank_icon=github&cache_seconds=1800"/>
+src="https://github-readme-stats.vercel.app/api?username=keerithivasansl-beep&show_icons=true&include_all_commits=true&hide_border=true&bg_color=020617&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF&rank_icon=github&cache_seconds=1800"/>
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthivasanl-beep&layout=compact&hide_border=true&bg_color=020617&title_color=00F5A0&text_color=FFFFFF&cache_seconds=1800"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerithivasansl-beep&layout=compact&hide_border=true&bg_color=020617&title_color=00F5A0&text_color=FFFFFF&cache_seconds=1800"/>
 
 </div>
 
@@ -262,7 +262,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthivasan
 <div align="center">
 
 <img width="80%"
-src="https://streak-stats.demolab.com?user=keerthivasanl-beep&theme=dark&hide_border=true&background=020617&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=FFFFFF&dates=94A3B8"/>
+src="https://streak-stats.demolab.com?user=keerithivasansl-beep&theme=dark&hide_border=true&background=020617&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0&sideLabels=FFFFFF&dates=94A3B8"/>
 
 </div>
 
@@ -272,7 +272,8 @@ src="https://streak-stats.demolab.com?user=keerthivasanl-beep&theme=dark&hide_bo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthivasanl-beep&bg_color=020617&color=FFFFFF&line=00F5A0&point=00F5A0&area=true&hide_border=true"/>
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=keerithivasansl-beep&bg_color=020617&color=FFFFFF&line=00F5A0&point=00F5A0&area=true&hide_border=true"/>
 
 </div>
 
@@ -400,7 +401,7 @@ into solutions
 
 <br>
 
-<a href="https://github.com/keerthivasanl-beep">
+<a href="https://github.com/keerithivasansl-beep">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5A0"/>
 </a>
 
